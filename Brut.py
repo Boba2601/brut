@@ -4,7 +4,7 @@ import requests
 USERNAME = 'admin'
 FAILED_TEXT = 'Password no fonts!'
 
-URL = 'https://itproger.com/admin/'
+URL = 'https://site.com'
 
 def read_passwords(input_file):
     with open(input_file) as f:
